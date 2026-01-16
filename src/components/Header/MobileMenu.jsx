@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { menuItems } from './const'
+import { menuItems } from './const';
 import Logo from '../../assets/Logo.svg';
 import Close from '../../assets/icons/Close.svg?react';
 import Arrow from '../../assets/icons/Arrow.svg?react';
